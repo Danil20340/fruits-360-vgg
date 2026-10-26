@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+
+# Файлы, которые ноутбук создаёт при запуске (кроме модели и списка классов)
+repo_fruits360_vgg16_model.keras
+repo_class_names_vgg.txt
+lab9_fruits360_cnn_model.h5
+lab9_class_names.txt
